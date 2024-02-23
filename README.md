@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kartik kotkar
+-  Hi👋, I’m @kartik kotkar
 - 👀 I’m interested in C, C++ Python, Data Science, Java, SQL,
 - 🌱 I’m currently learning Full-Stack Wab Development.
 - 💞️ I’m looking to collaborate on  open sourcr project.
