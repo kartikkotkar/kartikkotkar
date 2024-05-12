@@ -1,5 +1,5 @@
-            -**....👑....**
-           - Hi👋, I'M KOTKAR KARTIK.
+-**....👑....**
+-Hi👋, I'M KOTKAR KARTIK.
 - 👀 I’m interested in C, C++ Python, Data Science, Java, SQL,
 - 🌱 I’m currently learning Full-Stack Wab Development.
 - 💞️ I’m looking to collaborate on  open sourcr project.
