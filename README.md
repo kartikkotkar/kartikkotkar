@@ -7,6 +7,7 @@
 - 👨‍💻 All of my project are availble at
        https://github.com/kartikkotkar
 - 📫 How to reach me kartikkotkar973@gmail.com.
+- 📫 How to reach me https://www.linkedin.com/in/kartik-kotkar/
 
 
 <!---
